@@ -1,8 +1,6 @@
 # Retro Games List
 An embarrassingly bad list of retro games for iOS
 
-#### Flappy Bird (fake)
-https://itunes.apple.com/us/app/flappy-bird-original-version/id1086354043?mt=8
 #### Timberman
 https://itunes.apple.com/us/app/timberman/id871809581?mt=8
 #### Flappy Wings
