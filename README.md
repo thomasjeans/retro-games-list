@@ -13,3 +13,11 @@ https://itunes.apple.com/us/app/splashy-fish-adventure-flappy/id811035387?mt=8
 https://itunes.apple.com/us/app/flappy-rainbow-10-in-1/id821000111?mt=8
 #### Tiny Tower
 https://itunes.apple.com/us/app/tiny-tower-free-city-building/id422667065?mt=8
+#### Swing Copters 2
+https://itunes.apple.com/us/app/swing-copters-2/id1067170056?mt=8
+#### Soda Dungeon
+https://itunes.apple.com/us/app/soda-dungeon/id1006414665?mt=8
+#### The Last Vikings
+https://itunes.apple.com/us/app/the-last-vikings/id970044095?mt=8
+#### Slayin
+https://itunes.apple.com/us/app/slayin/id548580856?mt=8
